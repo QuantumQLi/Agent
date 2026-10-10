@@ -2,11 +2,10 @@
 
 > **Status: unaudited testnet research. Do not use with real funds.**
 
-Crepitus is an experimental EVM protocol project exploring collateralized synthetic assets. The repository is being built in verifiable milestones; features are documented as available only after their source code and tests are committed.
+Agent is an experimental protocol project exploring collateralized synthetic assets. The repository is being built in verifiable milestones; features are documented as available only after their source code and tests are committed.
 
 ## What exists now
 
-- `CREPToken.sol`: capped ERC-20 prototype with permit support and role-based minting.
 - `MockOracle.sol`: mutable local/testnet oracle with 8-decimal prices.
 - Hardhat 3 contract compilation, TypeScript tests, and Ignition deployment.
 - React status page.
