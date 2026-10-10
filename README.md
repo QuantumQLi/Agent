@@ -1,7 +1,3 @@
-
-
-> **Status: unaudited testnet research. Do not use with real funds.**
-
 Agent is an experimental protocol project exploring collateralized synthetic assets. The repository is being built in verifiable milestones; features are documented as available only after their source code and tests are committed.
 
 ## What exists now
