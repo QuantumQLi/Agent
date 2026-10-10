@@ -1,4 +1,4 @@
-# Crepitus Protocol
+
 
 > **Status: unaudited testnet research. Do not use with real funds.**
 
